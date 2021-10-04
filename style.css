@@ -1,8 +1,8 @@
 body {    background: peachpuff;    text-align: center;}
-div{    margin-left: 500px; 
-       height: 400px;
+div{    margin-left: 400px; 
+       height: 300px;
        border: 10px solid black;  
          border-radius: 20px;   
           width: 500px; 
              background:white ;}
-img{height: 100px;}
+img{height: 50px;}
